@@ -1,0 +1,20 @@
+{
+  "name": "mapbox",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.4.4",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.4",
+    "mapbox-gl": "^2.15.0",
+    "next": "13.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
